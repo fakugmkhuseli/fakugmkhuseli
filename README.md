@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
 - 📫 How to reach me via email fakugmkhuseli@gmail.com
 
-## 📊 My GitHub Stats:
+## 📊 GitHub Stats:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="150px" align="left" src="https://github-readme-stats.vercel.app/api?username=fakugmkhuseli&show_icons=true&theme=jolly&layout=compact" />
 </a>
