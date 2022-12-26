@@ -4,8 +4,7 @@
 
 -  Hi, I’m Mkhuseli Faku
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning HTML, CSS and JavaScript.
 - 📫 How to reach me via email fakugmkhuseli@gmail.com
 
 ## 📊 My GitHub Stats:
