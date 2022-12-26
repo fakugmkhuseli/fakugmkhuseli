@@ -2,8 +2,8 @@
 
 ## 👨🏻‍💻 About Me:
 
--  Hi, I’m Mkhuseli Faku
-- 👀 I’m interested in Software Engineering
+-  Hi, I’m student at ALX Holberton Software Engineering Programme.
+- 👀 I’m interested in Software Engineering and Full-Stack Web Development.
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
 - 📫 How to reach me via email fakugmkhuseli@gmail.com
 
