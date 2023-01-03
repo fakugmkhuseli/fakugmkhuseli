@@ -7,6 +7,12 @@
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
 - 📫 How to reach me via email fakugmkhuseli@gmail.com
 
+### 🛠 Languages and Tools:
+Name | Badges
+--- | ---
+**Languages**  |  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+
 ## 📊 GitHub Stats:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="150px" align="left" src="https://github-readme-stats.vercel.app/api?username=fakugmkhuseli&show_icons=true&theme=jolly&layout=compact" />
