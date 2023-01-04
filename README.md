@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Mkhuseli Faku! 👋</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Front-End+Web+Developer;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Full-Stack+Web+Developer;&center=true&width=500&height=50"></a>
 </p>
 
 ## 👨🏻‍💻 About Me:
