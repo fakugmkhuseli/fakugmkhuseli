@@ -4,7 +4,7 @@
 
 -  Hi, I’m a student at ALX Holberton Software Engineering Programme.
 - 👀 I’m interested in Software Engineering and Full-Stack Web Development.
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
+- 🌱 I’m currently learning HTML, CSS, and JavaScript.
 - 📫 You can reach me via email fakugmkhuseli@gmail.com
 
 ## 🛠 Languages and Tools:
