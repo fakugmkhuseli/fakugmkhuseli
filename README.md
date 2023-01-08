@@ -25,6 +25,13 @@ Name | Badges
   <img height="150px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakugmkhuseli&langs_count=8&theme=jolly&layout=compact" />
 </a>
 
+## Connect with me:
+
+<p align="center">
+  <!--- <a href = "https://www.linkedin.com/in/mkhuseli-faku-949438208/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> --->
+<a href = "https://mobile.twitter.com/fakugmkhuseli"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+</p>
+
 <!---
 fakugmkhuseli/fakugmkhuseli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
