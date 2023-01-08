@@ -19,10 +19,10 @@ Name | Badges
 
 ## 📊 GitHub Stats:
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="150px" align="left" src="https://github-readme-stats.vercel.app/api?username=fakugmkhuseli&show_icons=true&theme=jolly&layout=compact" />
+  <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=fakugmkhuseli&show_icons=true&theme=jolly&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="150px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakugmkhuseli&langs_count=8&theme=jolly&layout=compact" />
+  <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakugmkhuseli&langs_count=8&theme=jolly&layout=compact" />
 </a>
 
 ## Connect with me:
